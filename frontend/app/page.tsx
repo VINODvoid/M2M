@@ -4,6 +4,7 @@ import ReleasePage from "@/pages/ReleasePage"
 export default function Home() {
   return (
     <>
+
       <ReleasePage/>
     </>
   )
